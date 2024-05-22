@@ -1,0 +1,34 @@
+pytz
+Pillow   
+whitenoise
+
+# Django
+# ------------------------------------------------------------------------------
+django
+django-model-utils
+django-crispy-forms
+crispy-bootstrap5
+django-filter
+
+# Django REST Framework
+djangorestframework
+django-cors-headers
+
+# PDF generator
+reportlab
+xhtml2pdf
+
+# Customize django admin
+django-jet-reboot
+
+# Environment variable
+python-decouple
+
+# Celery/redis
+celery
+redis
+hiredis
+
+# Payments
+stripe
+gopay

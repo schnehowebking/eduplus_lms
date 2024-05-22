@@ -1,0 +1,10 @@
+-r base.txt
+
+psycopg2
+
+# Code quality
+# ------------------------------------------------------------------------------
+black
+
+# Django Extensions
+django-extensions
