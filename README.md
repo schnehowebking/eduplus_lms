@@ -1,4 +1,4 @@
-# Learning Management System with Django
+# School Management System with Django
 
 A comprehensive School Management System (LMS) built with the Django web framework. Whether you're developing an LMS for an educational institution or looking to enhance your skills and portfolio, this project is a perfect starting point.
 
@@ -52,6 +52,7 @@ Ensure you have the following installed:
 
     ```bash
     git clone https://github.com/schnehowebking/eduplus_lms.git
+    
     ```
 
 2. **Create and activate a Python virtual environment:**
