@@ -1,6 +1,6 @@
 # School Management System with Django
 
-A comprehensive School Management System (LMS) built with the Django web framework. Whether you're developing an LMS for an educational institution or looking to enhance your skills and portfolio, this project is a perfect starting point.
+A comprehensive School Management System (SMS) built with the Django web framework. Whether you're developing an SMS for an educational institution or looking to enhance your skills and portfolio, this project is a perfect starting point.
 
 Let's collaborate and enhance this project together!
 
@@ -72,7 +72,7 @@ Ensure you have the following installed:
     DB_PORT=[YOUR_POSTGRES_PORT (default is 5432)]
 
     # Email configuration
-    EMAIL_FROM_ADDRESS="Django LMS <youremail@example.com>"
+    EMAIL_FROM_ADDRESS="EduPlus <youremail@example.com>"
     EMAIL_HOST_USER=[YOUR_EMAIL]
     EMAIL_HOST_PASSWORD=[YOUR_EMAIL_PASSWORD]
 
