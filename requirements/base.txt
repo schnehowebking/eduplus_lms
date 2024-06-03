@@ -9,6 +9,7 @@ django-model-utils
 django-crispy-forms
 crispy-bootstrap5
 django-filter
+dj-database-url
 
 # Django REST Framework
 djangorestframework
