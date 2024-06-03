@@ -11,6 +11,7 @@ crispy-bootstrap5
 django-filter
 dj-database-url
 psycopg2
+django-redis
 
 # Django REST Framework
 djangorestframework
