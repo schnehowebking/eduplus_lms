@@ -281,7 +281,7 @@ LECTURER_ID_PREFIX = config("LECTURER_ID_PREFIX", "lec")
 CACHES = {
     'default': {
         'BACKEND': 'django_redis.cache.RedisCache',
-        'LOCATION': 'redis://red-cperc6779t8c73bcroq0:6379/0',
+        'LOCATION': 'rediss://red-cperc6779t8c73bcroq0:uGakhl9FrDJlZFiglFn6FczMzW0bacTF@oregon-redis.render.com:6379/0',
         
     }
 }
